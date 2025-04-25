@@ -1,0 +1,40 @@
+.head1
+    {
+     color: rgb(14, 11, 190);
+background-color: aqua;
+ }
+ .head2{
+    color: aqua;
+    background-color: black;
+    text-align: center;
+ }
+
+ .para1{
+    color: chartreuse;
+    background-color: black;
+    
+ }
+ .Punjab,.punjab1{
+    color: red;
+ }
+ .csk,.csk1{
+    color: rgb(103, 103, 4);
+ }
+ .mi,.lsg,.dl,.lsg1,.mi1,.dl1{
+    color: blue;
+ }
+ .rr,.rr1{
+    color: palevioletred;
+ }
+ .srh,.srh1{
+    color: orange;
+ }
+ .gujarat,.gujarat1{
+    color:rgb(16, 6, 152);
+ }
+ .kkr,.kkr1{
+    color: rgb(55, 0, 103);
+}
+.rcb,.rcb1{
+    color: rgb(181, 5, 5);
+}
